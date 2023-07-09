@@ -7,9 +7,6 @@ from AlgortitmosCG.CurvasCasteljau import curvas
 #Biblioteca para desenhar Bresenham sozinho
 from AlgortitmosCG.circuloCG import Circulo
 
-#Importa Bresenhan
-from AlgortitmosCG.RetaBresenham import Bresenham
-
 #Importa a biblioteca tempo
 import time
 
